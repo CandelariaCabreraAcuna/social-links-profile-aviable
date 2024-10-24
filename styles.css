@@ -21,7 +21,7 @@ body{
     width: 365px;
     height: 600px;
     background: hsl(0, 0%, 12%);
-    padding: 15px;
+    padding: 20px;
     border-radius: 10px;
     gap: 15px;
 }
@@ -41,7 +41,7 @@ ul li:hover{
 }
 img{
     border-radius: 50%;
-    width: 75px;
+    width: 80px;
 }
 h4{
     color: hsl(75, 94%, 57%);

@@ -19,7 +19,7 @@ body{
 }
 .container{
     width: 365px;
-    height: 500px;
+    height: 600px;
     background: hsl(0, 0%, 12%);
     padding: 15px;
     border-radius: 10px;
@@ -27,12 +27,12 @@ body{
 }
 ul li{
     list-style: none;
-    padding: 8px;
+    padding: 12px;
     border-radius: 5px;
-    margin: 12px;
+    margin: 15px;
     width: 270px;
     background: hsl(0, 0%, 20%);
-    font-size: 12px;
+    font-size: 14px;
     font-weight: 700;
 }
 ul li:hover{
@@ -41,7 +41,7 @@ ul li:hover{
 }
 img{
     border-radius: 50%;
-    width: 70px;
+    width: 75px;
 }
 h4{
     color: hsl(75, 94%, 57%);
@@ -49,4 +49,5 @@ h4{
 p{
     font-size: 14px;
     font-weight: 400;
+    margin-top: 15px;
 }
